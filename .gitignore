@@ -1,0 +1,2 @@
+ # hide node_modules directory when pushing project files to github
+ /node_modules

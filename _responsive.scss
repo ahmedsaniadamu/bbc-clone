@@ -1,0 +1,17 @@
+ // nested media query for device responsiveness .
+ 
+ // mobile devices
+
+ @mixin  mobile-responsive($max: 480px) {
+     @media screen and (max-width: $max) {
+         @content ;
+     }
+ }
+
+ //tablet devices 
+
+  @mixin  tablet-responsive($min : 500px , $max : 990px) {
+     @media screen and (min-width : $min) and (max-width : $max) {
+         @content ;
+     }
+ }
