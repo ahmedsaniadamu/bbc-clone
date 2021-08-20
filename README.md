@@ -1,10 +1,10 @@
- # BBC HOMEPAGE clone
+ # BBC homepage clone
 
 ## what is bbc
 
  bbc world is a popular news website world wide.
 
- this repo. is a clone of a bbc homepage user interface build just for practice.
+ this repo is a clone of a bbc homepage user interface build just for practice.
 
  ## TECHNOLOGY USED
 
